@@ -6,4 +6,15 @@
 
 切割后效果
 
-![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_1.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_2.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_3.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_4.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_5.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_6.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_7.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_8.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_9.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_10.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_11.jpg)![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/image_segmennation/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_12.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_1.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_2.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_3.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_4.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_5.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_6.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_7.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_8.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_9.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_10.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_11.jpg)
+![加载失败](https://github.com/ShiHaoo/image_segmennation/blob/master/images/4164cdb44a284893ad8eb02cbfb9bb50_th.jpeg_切块_12.jpg)
