@@ -1,0 +1,74 @@
+# -*- coding:utf-8 -*-
+'''
+  可实现自动读取文件夹下所有图片，进行任意大小切割，并自动保存到保存文件夹下
+	  @author:sir_chai
+    修改读取、保存文件夹位置
+    修改切割后图片分辨率大小
+
+'''
+from PIL import Image
+import os
+
+
+def cut(id,vx,vy):
+    #打开图片图片1.jpg
+    name1='./others_dcgan_gen/'+id
+#    name1 = "./samples/train_"+ str(id) + ".png"
+    print( name1 )
+    name2 = './others_dcgan_gen0/'+id+'_切块_'
+    im =Image.open(name1)
+
+    #偏移量
+    dx = 64
+    dy = 64
+    n = 1
+
+    #左上角切割
+    x1 = 0
+    y1 = 0
+    x2 = vx
+    y2 = vy
+    print (im.size) #im.size[0] 宽和高
+    w = im.size[0]#宽
+    h = im.size[1]#高
+
+    #纵向
+    while x2 <= h:
+        #横向切
+        while y2 <= w:
+            name3 = name2 + str(n) + ".jpg"
+            #print n,x1,y1,x2,y2
+            im2 = im.crop((y1, x1, y2, x2))
+            im2.save(name3)
+            y1 = y1 + dy
+            y2 = y1 + vy
+            n = n + 1
+        x1 = x1 + dx
+        x2 = x1 + vx
+        y1 = 0
+        y2 = vy
+
+    print( "图片切割成功，切割得到的子图片数为" )
+    return n-1
+
+
+if __name__=="__main__":
+
+    #设置文件夹所在路径，我这里设置哦当前路径
+    path = './others_dcgan_gen/'
+    #列出路径下所有的一级目录+文件
+    files = os.listdir(path)
+    print (files)
+    image_list=files
+    for name in image_list:
+    #切割图片的面积 vx,vy
+    #大
+    #res = cut(id,160,160)
+
+    #中
+    #res = cut(id,120,120)
+
+    #小
+        res = cut(name,64,64)
+
+        print (res)
